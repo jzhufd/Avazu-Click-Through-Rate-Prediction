@@ -8,7 +8,7 @@ Classifiers and the models developed have been saved as pickles in order to avoi
 Models I have taken into consideration and implemented:
 1. Random Forest
 2. XG boosting
-3. Logistic Regression(for feature selection) 
+3. Logicstic Regression(for feature selection) 
 
 A summary of the different stages involved in the predictive modeling assignment and a corresponding
 record of the related insights generated before diving deep into the modeling phase finally closing with
