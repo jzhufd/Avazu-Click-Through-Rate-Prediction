@@ -22,5 +22,5 @@ performance.
 
 3. Evaluating the results -! Considering various metrics such as Classficiation reports, accuracy scores, confusion matrices and ROC/AUC scores to evaluate the performance of the built model
 
- ##![click2](https://user-images.githubusercontent.com/22896366/45008613-41154380-afc9-11e8-84bd-c3ae46e7a753.JPG)
+ ![click2](https://user-images.githubusercontent.com/22896366/45008613-41154380-afc9-11e8-84bd-c3ae46e7a753.JPG)
 ================================================================================
