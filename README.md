@@ -22,8 +22,10 @@ performance.
 
 3. Evaluating the results -! Considering various metrics such as Classficiation reports, accuracy scores, confusion matrices and ROC/AUC scores to evaluate the performance of the built model
 
+I have documented the whole project as a blog on entry at https://medium.com/@rachit.mishra94/predicting-click-probabilities-on-a-leading-advertising-platform-7582633e6e78
+
+
  ![click2](https://user-images.githubusercontent.com/22896366/45008613-41154380-afc9-11e8-84bd-c3ae46e7a753.JPG)
  
 
-I have documented the whole projects as a blog on entry at https://medium.com/@rachit.mishra94/predicting-click-probabilities-on-a-leading-advertising-platform-7582633e6e78
 ================================================================================
